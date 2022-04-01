@@ -42,5 +42,20 @@ img {
     height: 20px;
     background: steelblue;
     border-radius: 2px;
-    bor
+}
+
+.box {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.item {
+    width: 100%;
+    background-color: rgb(197, 228, 228);
+    text-align: center;
+
+}
+
+#cat1, #cat2 {
+    width: 100%;
 }
