@@ -2,15 +2,9 @@ body {
     background-color: rgb(225, 236, 232);
 }
 
-h1 {
+h1, h3, h4 {
     text-align: center ;
-    font-family: sans-serif;
-}
-
-h2 {
-    text-align: center ;
-    font-family: sans-serif;
-    
+    font-family: sans-serif;   
 }
 
 .image {
@@ -25,11 +19,6 @@ img {
     border: solid steelblue 3px;
     padding: 0 0 ;
 }
-
-/* img:hover {
-    width: 80.2%;
-    margin: 0% 10%;
-} */
 
 .counter {
     justify-content: center;
@@ -47,15 +36,16 @@ img {
 .box {
     display: grid;
     grid-template-columns: auto auto;
+    justify-content: space-around;
 }
 
 .item {
-    width: 100%;
+    width: 90%;
     background-color: rgb(197, 228, 228);
     text-align: center;
 
 }
 
 #cat1, #cat2 {
-    width: 100%;
+    width: 90%;
 }
