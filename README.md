@@ -6,6 +6,8 @@ Screenshot of version 1.0 below;
 
 Verion 1.1
 New Project Requirements for Cat Clicker
+
+
 --Visuals--
 The application should display two cats. Each cat includes
 the cat's name
@@ -26,4 +28,4 @@ Screenshot of Version 1.1
 
 
 Image Source: 
-Photo by [Onur Binay](https://unsplash.com/@onurbinay?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText ) on [UNSPLASH](https://www.unsplash.com)
+[UNSPLASH](https://www.unsplash.com)
