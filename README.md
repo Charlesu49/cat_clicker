@@ -1,5 +1,6 @@
 # CAT CLICKER PROJECT
-This cat clicker project displays the image of a cat and increments the number of times is has been clicked on. it also spots a reset button that resets the counter to zero.
+# Version 1.0
+This cat clicker project displays the image of a cat and increments the number of times it is clicked on.
 
 Screenshot of version 1.0 below;
 <img src="https://github.com/Charlesu49/cat_clicker/blob/master/screenshot.png" alt="screenshot">
@@ -24,8 +25,8 @@ Screenshot of Version 1.1
 ## Project Requirements for Cat Clicker Premium 
 ## Visuals
 - The application should display;   
-- a list of at least 5 cats, listed by name
-- an area to display the selected cat
+    - a list of at least 5 cats, listed by name
+    - an area to display the selected cat
 - In the cat display area, the following should be displayed
     - the cat's name
     - a picture of the cat
