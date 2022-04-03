@@ -3,16 +3,13 @@ This cat clicker project displays the image of a cat and increments the number o
 Screenshot of version 1.0 below;
 <img src="https://github.com/Charlesu49/cat_clicker/blob/master/screenshot.png" alt="screenshot">
 
-
-
 **Verion 1.1**
-**New Project Requirements for Cat Clicker**
+**New Project Requirements for Cat Clicker**  
 --Visuals--  
 - The application should display two cats. 
 - Each cat includes the cat's name
     - a picture of the cat
     - text showing the number of clicks
-
 --Interaction--  
 - The number of clicks should increment when each cat picture is clicked.
 
@@ -22,9 +19,9 @@ Screenshot of Version 1.1
 
 
 **Version 1.2 (Cat Clicker Premium)**
-**Project Requirements for Cat Clicker Premium**
---Visuals--
-The application should display;   
+**Project Requirements for Cat Clicker Premium**  
+--Visuals--  
+- The application should display;   
 - a list of at least 5 cats, listed by name
 - an area to display the selected cat
 - In the cat display area, the following should be displayed
