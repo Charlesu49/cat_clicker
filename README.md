@@ -3,7 +3,7 @@
 This cat clicker project displays the image of a cat and increments the number of times it is clicked on.
 
 Screenshot of version 1.0 below;
-<img src="https://github.com/Charlesu49/cat_clicker/blob/master/screenshot.png" alt="screenshot">
+<img src="https://github.com/Charlesu49/cat_clicker/blob/master/images/screenshot.png" alt="screenshot">
 
 # Verion 1.1
 ## New Project Requirements for Cat Clicker
@@ -17,8 +17,8 @@ Screenshot of version 1.0 below;
 - The number of clicks should increment when each cat picture is clicked.
 
 
-Screenshot of Version 1.1
-<img src="https://github.com/Charlesu49/cat_clicker/blob/master/screenshot_2.png" alt="screenshot of version 1.1">
+### Screenshot of Version 1.1
+<img src="https://github.com/Charlesu49/cat_clicker/blob/master/images/screenshot2.png" alt="screenshot of version 1.1">
 
 
 # Version 1.2 (Cat Clicker Premium) 
@@ -37,6 +37,8 @@ Screenshot of Version 1.1
 - should update to show the data for the selected cat.
 - The number of clicks in the cat area should be unique to each cat, and should increment when the cat's picture is clicked.
 
+### Screenshot of Version 1.2
+<img src="https://github.com/Charlesu49/cat_clicker/blob/master/images/screenshot3.png" alt="screenshot of version 1.2">
 
 
 

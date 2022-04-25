@@ -14,18 +14,18 @@ h1, h3, h4 {
 }
 
 img {
-    width: 20%;
+    width: 90%;
     margin: 0 auto;
     border: solid steelblue 3px;
     padding: 0 0 ;
 }
 
-.counter {
+.reset {
     justify-content: center;
     text-align: center;
 }
 
-.btn {
+#reset-btn {
     margin:0 auto;
     width: 15%;
     height: 20px;
@@ -40,11 +40,12 @@ img {
 }
 
 .item {
-    width: 90%;
+    width: 20rem;
     background-color: rgb(197, 228, 228);
     text-align: center;
 
 }
+
 
 #cat1, #cat2 {
     width: 90%;
